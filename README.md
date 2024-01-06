@@ -1,6 +1,6 @@
 ## The following is an exercise in creating queries using MySQL:
 
-## MYSQL TASKS:
+## MySQL TASKS:
 
 ### TASK 1: Using count, get the number of cities in the USA
 ### Task 2: Find out what the population and life expectancy for people in Argentina (ARG) is
