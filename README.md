@@ -1,4 +1,4 @@
-# The following is a exercise in creating queries using MySQL:
+## The following is an exercise in creating queries using MySQL:
 
 ## MYSQL TASKS:
 
